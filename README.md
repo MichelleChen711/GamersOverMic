@@ -35,6 +35,6 @@ node.js       socket.io     WebRTC
 Note: under time constraints and sole purpose of creating a working demo, the sourcecode is not presentable, 
 but nevertheless I wish to showcase the project I helped create. 
 
-![Alt text](http://full/path/to/WEBSITE SS01.jpg "Optional title")
-![alt tag](https://raw.github.com/mishy711/GamersOverMic/master/path/to/WEBSITE SS01.jpg)
-![alt tag](https://raw.github.com/mishy711/GamersOverMic/master/path/to/WEBSITE SS02.jpg)
+![Alt text](http://full/path/to/ss01.jpg "Optional title")
+![alt tag](https://raw.github.com/mishy711/GamersOverMic/master/path/to/ss01.jpg)
+![alt tag](https://raw.github.com/mishy711/GamersOverMic/master/path/to/ss02.jpg)
