@@ -9,6 +9,8 @@ Gamers Over Mic (GOM)
 Authors: Michelle Chen, Kong Huang, Alan Chen
 
 
+
+
 Description
 
 Gamers connect with each other in temporary sessions of gameplay, after which you never see or hear of 
@@ -28,10 +30,9 @@ friends rooms.
 
 Built with
 
-CSS           HTML5         JavaScript      
-node.js       socket.io     WebRTC
+CSS, HTML5, JavaScript, node.js, socket.io, WebRTC
 
 
-Note: under time constraints and sole purpose of creating a working demo, the sourcecode is not presentable, 
-but nevertheless I wish to showcase the project I helped create. 
+Note: under time constraints and sole purpose of creating a working demo, the sourcecode is not very presentable, 
+but nevertheless, I wish to showcase the project I helped create. 
 
