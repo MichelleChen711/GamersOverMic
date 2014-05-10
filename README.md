@@ -1,7 +1,7 @@
 GamersOverMic
 =============
 
-Created at HackNYU May2 2-4 2014: 
+Created at HackNYU May 2-4, 2014: 
 
 A no download and plugin-free way web based solution to temporarily chat with other gamers.
 
