@@ -5,7 +5,8 @@ HackNYU 2014: A no download and plugin-free way web based solution to temporaril
 
 
 Gamers Over Mic (GOM)
-Michelle Chen, Kong Huang, Alan Chen
+
+Authors: Michelle Chen, Kong Huang, Alan Chen
 
 
 Description
@@ -34,5 +35,6 @@ node.js       socket.io     WebRTC
 Note: under time constraints and sole purpose of creating a working demo, the sourcecode is not presentable, 
 but nevertheless I wish to showcase the project I helped create. 
 
+![Alt text](http://full/path/to/WEBSITE SS01.jpg "Optional title")
 ![alt tag](https://raw.github.com/mishy711/GamersOverMic/master/path/to/WEBSITE SS01.jpg)
 ![alt tag](https://raw.github.com/mishy711/GamersOverMic/master/path/to/WEBSITE SS02.jpg)
