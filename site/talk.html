@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+			Don't look at the source code 
+		</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link href = "bootstrap.min.css" rel = "stylesheet">
+		<link href = "front.css" rel = "stylesheet">
+	</head>
+	<body onload="initNewRoom()">
+
+			<div class="container">
+				<div class = "collapse navbar-collapse navHeaderCollapse" >
+
+					<form class="navbar-form pull-right" action = "login.php" method="post" id="navbar">
+						<input type = 'submit' name='SignIn' value = 'Sign In' class="btn btn-success">
+						<input type = 'submit' name='Register' value = 'Register' class="btn btn-success">
+					</form>
+
+				</div>
+			</div>
+
+			<div class = "container">
+			<center><img src="Finallogo.png" width="200" height="85" alt="logo"></center>
+			<p>
+			<center><label for="caption">Gamers Over Mic</label></center></p>
+			<center><div class = "room-container">
+	 			<form accept-charset="UTF-8" id = "new-room" role= "form" method = "get" action = "index.html">
+	 				<div class="form-group">
+		 				<label for="exampleroomName">Room name</label>
+						<input class="form-control" autofocus="autofocus" id="room_name" size="30" type="text">
+						<br>
+						<label for="exampleusername">Name</label>
+						<input class = "form-control" id="user_name" size="30" type="text">
+						<br>
+						<!--<input  id =  "newRoom" type = 'submit' name = 'submit' value = 'CREATE' class="btn btn-success">-->
+					</div>
+				</form>
+				<div class="buttonBox">
+					<button id="newRoom" class="btn btn-success">Enter</button>
+				</div>
+			</div></center>
+		</div>
+	    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="bootstrap.js"></script>
+		<script src="/script.js"></script>
+	</body>
+</html>
