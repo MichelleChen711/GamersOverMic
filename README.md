@@ -1,7 +1,10 @@
 GamersOverMic
 =============
 
-HackNYU 2014: A no download and plugin-free way web based solution to temporarily chat with other gamers.
+Created at HackNYU May2 2-4 2014: 
+
+A no download and plugin-free way web based solution to temporarily chat with other gamers.
+
 
 
 Gamers Over Mic (GOM)
