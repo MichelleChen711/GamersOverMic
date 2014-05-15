@@ -1,70 +1,24 @@
-#webrtc.io-demo
+#GamersOverMic
 ==============
 
-<<<<<<< HEAD
-You can have a look at the [demo](http://webrtc.dennis.is/)
-=======
-Created at HackNYU May 2-4, 2014: 
+Created at HackNYU May 2-4, 2014:
 
 A no download and plugin-free way web based solution to temporarily chat with other gamers.
 
->>>>>>> 1c9a00cb4dcf2f27897cec9c2ac81d939be2687f
+Gamers Over Mic (GOM)
 
-##Instructions on how to setup the demo:
-
-Run in your terminal
-
-```bash 
-git clone git@github.com:webRTC/webrtc.io-demo.git
-```
-
-```bash 
-cd webrtc.io-demo
-```
-
-<<<<<<< HEAD
-```bash 
-npm install
-```
-=======
-
+Authors: Michelle Chen, Kong Huang, Alan Chen
 
 Description
->>>>>>> 1c9a00cb4dcf2f27897cec9c2ac81d939be2687f
 
-```bash 
-cd site
-```
+Gamers connect with each other in temporary sessions of gameplay, after which you never see or hear of them again (most of the time). Conventional ways of voice chat makes the user download or sign up for their service. There is also no reason to add someone to your friends list who you will never talk to again.
 
-```bash 
-node server.js
-```
+This web based solution is an easy to use browser to browser communication site. Users can open the site and then create their own private temporary rooms. As long as the browser window of the private room is open, users will be able to voice chat/text/webcam with each other.
 
-In a version of Chrome that have webRTC support.
+Future features will include a sign up and registration, changing this site into a social media solution for gamers. Registered users will be able to keep track of the last users they've made contact with in case they want to get in touch with them again. They will also be able to add people to friends list and join their friends rooms.
 
-go to [localhost:8080](http://localhost:8080)
+Built with
 
-click allow to see your camera
-
-go to [localhost:8080](http://localhost:8080)
-
-<<<<<<< HEAD
-click allow to see your camera and the connection will be made between your to open windows.
-
-
-##For instructions on how to start developing with webRTC.io
-
-go to [https://github.com/webRTC/webRTC.io](https://github.com/webRTC/webRTC.io) and read the instructions.
-
-Developed by:
-    [@dennismatensson](https://github.com/dennismartensson)
-    [@cavedweller](https://github.com/cavedweller)
-    [@sarenji](https://github.com/sarenji)
-=======
 CSS, HTML5, JavaScript, node.js, socket.io, WebRTC
 
-
-Note: under time constraints and sole purpose of creating a working demo, the sourcecode is not very presentable, 
-but nevertheless, I wish to showcase the project I helped create. 
-
->>>>>>> 1c9a00cb4dcf2f27897cec9c2ac81d939be2687f
+Note: under time constraints and sole purpose of creating a working demo, the sourcecode is not very presentable, but nevertheless, I wish to showcase the project I helped create.
